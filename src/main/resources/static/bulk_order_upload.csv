@@ -1,0 +1,5 @@
+OrderNo,OrderQuantity,ProductName,ProductDescription,DistributorCode,StockistCode,PharmasistCode,SchemeApplied,OrderStatus,OrderPriority
+1,106,Valegra,This is a product description1,11912,123,4,Buy 10 get 2 free,In-progress,Immediate
+2,104,Testrostone,This is a product description2,11912,123,4,Buy 10 get 2 free,In-progress,OnTime
+3,103,Quafill,This is a product description3,11912,123,4,Buy 10 get 2 free,In-progress,Average
+4,101,Uqies,This is a product description4,11912,123,4,Buy 10 get 2 free,In-progress,Delayed

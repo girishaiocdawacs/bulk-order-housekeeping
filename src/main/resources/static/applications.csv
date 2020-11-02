@@ -1,0 +1,31 @@
+App_Application_ID,App_ApplicationName_Nm,App_UploadType_Id,App_CreatedDate_Dtm,App_Description_desc,App_IsActive_Flg,App_Remarks_Desc,App_Source_Id
+1,DRLEDE,1,2017-02-08 10:29:44.237,http://drlede.com/,1,DRL Stockist Login - Daily files upload,NULL
+2,AWACS,2,2017-02-08 10:30:04.557,https://aiocdawacs.com,1,AWACS user login - Admin,CFA,Field,Stockist,Vendor,Company,DC,marketing,AOM and others,NULL
+4,TNPDAEDE,2,2017-02-08 10:31:42.970,http://tnpdaede.com/,1,TNPDAEDE Stockist login - Monthly files upload,NULL
+5,TNPDAEDE,1,2017-02-08 10:32:00.630,http://tnpdaede.com/,1,TNPDAEDE Stockist login - Daily files upload,NULL
+6,SmartPharmacy,0,2017-08-30 00:00:00.000,http://smart.aiocdawacs.com,1,Smart Customer/Retailer login - Invoice payment From Website,6
+7,SmartSalesman_Web,0,2017-08-30 00:00:00.000,http://smartsalesman.aiocdawacs.com,1,Smart Sales login - Order placing and transaction enquery From Website,7
+8,SmartPharmacyApp,0,2017-09-12 00:00:00.000,NULL,1,Smart APP Customer/Retailer login - Invoice payment From SMART App,8
+9,WelnusApp,0,2017-09-13 00:00:00.000,http://service.emilan.in/services/WelnusMaster.asmx,1,Welnus App orders transfer to AWACS & AWACS Transfer to SMART,9
+10,SmartPharmacy_BulkOrder,0,2017-11-13 00:00:00.000,http://filedownloadservice.aiocdawacs.com/awacs/AwacsAutoUpload.asmx,1,Computerized bulk order has been placed to SMART,10
+11,Medlife_BulkOrder_API,0,2017-12-20 00:00:00.000,http://smartservice.aiocdawacs.com/,1,Computerized bulk order has been placed to SMART,11
+12,WebSync,0,2018-02-22 00:00:00.000,http://fileuploads.aiocdawacs.com/Services/MTDFileUploads.asmx - FileUpload2010Patch,1,MTD file uploaded from WebSync in stockist end through by using awacs webservice,NULL
+13,EDXHUB,0,2018-02-22 00:00:00.000,http://fileuploads.aiocdawacs.com/Services/MTDFileUploads.asmx - FileUpload2010PatchOnlyForEDXHUB,1,MTD file uploaded from EDXHUB vendor association with stockist end through by using awacs webservice,NULL
+14,Non-SmartPharmacy,0,2018-02-22 00:00:00.000,http://smart.aiocdawacs.com,1,Order placing from Non-Smart stockist by using AWACS druginfo based MTD stock and sales,14
+15,Trata-DigitalPen_App,0,2018-03-19 00:00:00.000,http://smartservice.aiocdawacs.com/,1,Order images received from Trata retailer App through by using AWACS API,15
+16,MTD_AWACS,0,2015-05-25 00:00:00.000,http://fileuploads.aiocdawacs.com/Services/MTDFileUploads.asmx,1,MTD Files uploaded from AWACS website in stockist login through by using MTD webservice,NULL
+17,Trata-DigitalPen_App,0,2018-06-30 00:00:00.000,https://awacsdev.irxclinics.com/api/orderservice.svc/order/retailer/{retailerCode}/date/{orderdate},1,Order images received from Trata server through by using Trata API,17
+18,F1_MTD,0,2018-07-18 12:12:14.317,http://filedownloadservice.aiocdawacs.com/awacs/AwacsAutoUpload.asmx,1,F-1 File Sharing to MTD through by Webservice and websites,18
+19,CSquare,0,2018-10-30 00:00:00.000,https://orderbuk.com/lcapi/backend/web/infoexchange/getstocksales?fromDate=2018-09-03&toDate=2018-09-25,1,MTD file download from CSquare API through by using our win service done by Vb.Net,19
+20,Invoice Reconciliation,0,2018-10-30 00:00:00.000,NULL,1,Order to Invoice Reconciliation for Smart - Done by AWS mobile App team,20
+21,Invoice Reconciliation_PLSQL,0,2018-10-31 00:00:00.000,NULL,1,Order to Invoice Reconciliation for Smart - Done by PLSQL team,21
+24,AWACS Distributor Delight Patch,0,2018-11-16 00:00:00.000,http://smartservice.aiocdawacs.com/api/FileUpload/MTDFileUploads,1,DDP file uploaded from stockist through by using awacs API service,NULL
+25,Digital-RM,0,2019-04-13 11:09:30.070,NULL,1,Digital RM,NULL
+26,SmartVendor_BulkOrder_API,0,2019-05-06 17:10:10.423,http://smartservice.aiocdawacs.com/api/SmartVendor/,1,Computerized bulk order has been placed from vendor to SMART,26
+27,VB.Net Application,0,2019-06-24 15:06:22.483,NULL,1,File upload & company transfer status sharing to AWACS,NULL
+28,1Order Application,0,2019-06-24 15:15:46.257,https://1order.in/default.aspx,1,File upload & company transfer status sharing to AWACS,NULL
+29,POB APP,0,2019-06-24 18:36:53.760,,1,Orders received from mobile app,29
+30,Aggregator app,0,2019-06-24 18:37:39.913,,1,Orders received from mobile app,30
+31,Medvol app,0,2019-06-24 18:38:03.933,,1,Orders received from mobile app,31
+22,AWACS Distributor Delight Patch,0,2018-11-14 00:00:00.000,http://fileuploads.aiocdawacs.com/Services/MTDFileUploads.asmx - FileUploadDDP,1,DDP file uploaded from stockist with software vendor through by using awacs webservice,NULL
+23,Banned Item Master to Stockist,0,2018-11-14 00:00:00.000,http://smartservice.aiocdawacs.com/api/Stockist/UploadItemMaster,1,Stock Batchwise details received from stockist end through by using AWACS API,NULL
